@@ -2,7 +2,7 @@
 
 /* appearance */
 static const char *fonts[] = {
-	"monospace:size=16:bold"
+	"monospace:size=24:bold"
 };
 static const char dmenufont[]       = "monospace:size=16:bold";
 static const char normbordercolor[] = "#444444";
